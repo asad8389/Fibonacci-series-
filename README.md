@@ -29,3 +29,13 @@ Q6: Task. Given an integer 𝑛, find the last digit of the sum 𝐹0 + 𝐹1 + 
     Input Format. The input consists of a single integer 𝑛.
     Constraints. 0 ≤ 𝑛 ≤ 1014.
     Output Format. Output the last digit of 𝐹0 + 𝐹1 + · · · + 𝐹𝑛.
+    
+Q7: Task. Given two non-negative integers 𝑚 and 𝑛, where 𝑚 ≤ 𝑛, find the last digit of the sum 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛.
+    Input Format. The input consists of two non-negative integers 𝑚 and 𝑛 separated by a space.
+    Constraints. 0 ≤ 𝑚 ≤ 𝑛 ≤ 1014.
+    Output Format. Output the last digit of 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛.
+    
+Q8: Task. Compute the last digit of 𝐹0**2 + 𝐹1**2 + · · · + 𝐹𝑛\**2.
+    Input Format. Integer 𝑛.
+    Constraints. 0 ≤ 𝑛 ≤ 1014.
+    Output Format. The last digit of 𝐹0**2 + 𝐹1**2 + · · · + 𝐹𝑛**2.
